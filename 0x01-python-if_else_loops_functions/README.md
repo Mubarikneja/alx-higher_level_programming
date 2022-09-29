@@ -1,2 +1,2 @@
-# alx-higher_level_programming
-ALX High Level Programming with pyton in ALX for africa
+# 0x01. Python - if/else, loops, functions
+ALX Programming
