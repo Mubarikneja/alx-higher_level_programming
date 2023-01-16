@@ -1,2 +1,3 @@
 #!/bin/bash
-curl -Lfs $1
+# sends a GET request to the URL
+curl -sL "$1"
